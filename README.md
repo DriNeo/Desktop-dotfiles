@@ -10,3 +10,5 @@
 
 - Add bspwm and tint2 in startup menu in "session and startup". Alternatively add just bspwm in startup menu and uncomment tint2 line in bspwm/bspwmrc
 
+- Set the workspaces names in the Xfce workspace menu.
+
