@@ -1,6 +1,6 @@
 # Installation on Xfce
 
-- Install bspwm, tint2, rofi, sxhkd, picom packages on the Linux distribution
+- Install bspwm, tint2, rofi, sxhkd, picom, scrot packages on the Linux distribution
 
 - Move bspwm, tint2, rofi, sxhkd, picom directories in ~/.config
 
